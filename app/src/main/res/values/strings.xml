@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoGram</string>
+    <string name="btn1">Add Color</string>
+    <string name="btn2">Focus Camera</string>
+</resources>
